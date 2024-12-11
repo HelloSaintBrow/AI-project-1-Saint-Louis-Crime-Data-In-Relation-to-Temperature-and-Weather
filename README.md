@@ -1,4 +1,4 @@
-# AI-project-1-Saint-Louis-Crime-Data-In-Relation-to-Temperature-and-Weather
+# Crime and Weather Analysis in St. Louis, MO
 This project uses Exploratory Data Analysis (EDA) to examine a dataset of crime incidents, temperature, and weather conditions in St. Louis, Missouri. The objective is to identify potential connections or trends between crime rates and various weather factors, such as temperature, precipitation, and other environmental variables. Through this analysis, the project seeks to shed light on how weather might impact crime patterns in the city.
 ### Key Questions:
 1. **Does temperature affect the frequency of crime?**
