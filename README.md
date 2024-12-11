@@ -1,2 +1,2 @@
 # AI-project-1-Saint-Louis-Data-Crime
-Use EDA to explore and summarize a dataset, detailing any interesting findings and next steps.
+This project uses Exploratory Data Analysis (EDA) to examine a dataset of crime incidents, temperature, and weather conditions in St. Louis, Missouri. The objective is to identify potential connections or trends between crime rates and various weather factors, such as temperature, precipitation, and other environmental variables. Through this analysis, the project seeks to shed light on how weather might impact crime patterns in the city.
