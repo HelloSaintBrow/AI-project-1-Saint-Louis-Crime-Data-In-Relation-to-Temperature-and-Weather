@@ -54,3 +54,9 @@ The following tools and libraries were used for analysis and development:
 - **Scikit-learn**: For statistical analysis and potential predictive modeling.
 - **Jupyter Notebooks**: For documenting and sharing the analysis process interactively.
 - **Visual Studio Code**: Development environment used for coding, debugging, and project management.
+
+  ---
+  ## License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
