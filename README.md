@@ -6,6 +6,13 @@ This project uses Exploratory Data Analysis (EDA) to examine a dataset of crime 
 3. **How do extreme weather events (e.g., heatwaves, cold fronts) correlate with crime rates?**
 4. **Are there time-of-day or day-of-week effects in relation to weather and crime?**
 
+## Table of Contents:
+1. [Project Objectives](#project-objectives)
+2. [Why It Matters](#why-it-matters)
+3. [Next Steps](#next-steps)
+4. [Datasets](#datasets)
+5. [Tools and Libraries](#tools-and-libraries)
+
 ## Project Objectives
 
 - **Data Collection & Cleaning**: Compile and preprocess datasets that include crime records (type, location, time) and weather data (temperature, precipitation, humidity, etc.) for St. Louis, ensuring the data is clean, consistent, and ready for analysis.
