@@ -1,15 +1,18 @@
 # Crime and Weather Analysis in St. Louis, MO
+
 This project uses Exploratory Data Analysis (EDA) to examine a dataset of crime incidents, temperature, and weather conditions in St. Louis, Missouri. The objective is to identify potential connections or trends between crime rates and various weather factors, such as temperature, precipitation, and other environmental variables. Through this analysis, the project seeks to shed light on how weather might impact crime patterns in the city.
 
 ![picture of Downtown St. Louis, MO with view of The Gateway Arch](stl.jpg)
 
 ### Key Questions:
+
 1. **Does temperature affect the frequency of crime?**
 2. **Is there a link between specific weather conditions (e.g., rain, snow, sunny days) and crime patterns?**
 3. **How do extreme weather events (e.g., heatwaves, cold fronts) correlate with crime rates?**
 4. **Are there time-of-day or day-of-week effects in relation to weather and crime?**
 
 ## Table of Contents:
+
 1. [Project Objectives](#project-objectives)
 2. [Why It Matters](#why-it-matters)
 3. [Next Steps](#next-steps)
@@ -19,14 +22,12 @@ This project uses Exploratory Data Analysis (EDA) to examine a dataset of crime 
 ## Project Objectives
 
 - **Data Collection & Cleaning**: Compile and preprocess datasets that include crime records (type, location, time) and weather data (temperature, precipitation, humidity, etc.) for St. Louis, ensuring the data is clean, consistent, and ready for analysis.
-  
-- **Exploratory Data Analysis (EDA)**:  
-   - Summarize the key characteristics of the crime and weather data.
-   - Use visualizations and correlation analysis to explore the relationship between weather conditions (temperature, precipitation, etc.) and various types of crime.
-   - Investigate whether extreme weather events (e.g., heatwaves or cold fronts) have a notable impact on crime rates.
-   
-- **Time and Seasonal Analysis**:  
-   - Examine how crime rates fluctuate across different times of the day, days of the week, and seasons in relation to weather conditions.
+- **Exploratory Data Analysis (EDA)**:
+  - Summarize the key characteristics of the crime and weather data.
+  - Use visualizations and correlation analysis to explore the relationship between weather conditions (temperature, precipitation, etc.) and various types of crime.
+  - Investigate whether extreme weather events (e.g., heatwaves or cold fronts) have a notable impact on crime rates.
+- **Time and Seasonal Analysis**:
+  - Examine how crime rates fluctuate across different times of the day, days of the week, and seasons in relation to weather conditions.
 
 ## Why It Matters
 
@@ -55,8 +56,8 @@ The following tools and libraries were used for analysis and development:
 - **Jupyter Notebooks**: For documenting and sharing the analysis process interactively.
 - **Visual Studio Code**: Development environment used for coding, debugging, and project management.
 
-  ---
+  ***
+
   ## License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
