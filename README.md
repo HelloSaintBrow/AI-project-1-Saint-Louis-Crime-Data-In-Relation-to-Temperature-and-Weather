@@ -1,4 +1,4 @@
-# Crime and Weather Analysis in St. Louis, MO
+# Crime Trends Analysis in St. Louis, MO (2021-2023)
 
 This project uses Exploratory Data Analysis (EDA) to examine a dataset of crime incidents, temperature, and weather conditions in St. Louis, Missouri. The objective is to identify potential connections or trends between crime rates and various weather factors, such as temperature, precipitation, and other environmental variables. Through this analysis, the project seeks to shed light on how weather might impact crime patterns in the city.
 
