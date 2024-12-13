@@ -23,13 +23,26 @@ Picture sourced from [Fodor's Travel](https://www.fodors.com/)
 
 ## Project Objectives
 
-- **Data Collection & Cleaning**: Compile and preprocess datasets that include crime records (type, location, time) and weather data (temperature, precipitation, humidity, etc.) for St. Louis, ensuring the data is clean, consistent, and ready for analysis.
-- **Exploratory Data Analysis (EDA)**:
-  - Summarize the key characteristics of the crime and weather data.
-  - Use visualizations and correlation analysis to explore the relationship between weather conditions (temperature, precipitation, etc.) and various types of crime.
-  - Investigate whether extreme weather events (e.g., heatwaves or cold fronts) have a notable impact on crime rates.
-- **Time and Seasonal Analysis**:
-  - Examine how crime rates fluctuate across different times of the day, days of the week, and seasons in relation to weather conditions.
+### 1. **Data Collection & Cleaning**
+
+- Compile and preprocess datasets that include crime records (type, location, time) and seasonal data for St. Louis.
+- Ensure data consistency and accuracy for effective analysis.
+
+### 2. **Exploratory Data Analysis (EDA)**
+
+- Summarize key characteristics of crime data to identify overall trends.
+- Use visualizations and correlation analysis to uncover relationships between crime rates and seasonal factors.
+- Investigate how different types of crime (violent, property, drug-related) have evolved over time.
+
+### 3. **Time and Seasonal Analysis**
+
+- Examine fluctuations in crime rates across different times of the day, days of the week, and seasons of the year.
+- Identify any seasonal or temporal patterns in crime incidents, such as spikes in specific months or times.
+
+### 4. **Crime Type Analysis**
+
+- Analyze how specific types of crime have increased or decreased over the period.
+- Identify if certain crimes tend to peak during specific seasons or times of day.
 
 ## Why It Matters
 
