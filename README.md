@@ -6,10 +6,11 @@ This project uses Exploratory Data Analysis (EDA) to examine a dataset of crime 
 
 ### Key Questions:
 
-1. **Does temperature affect the frequency of crime?**
-2. **Is there a link between specific weather conditions (e.g., rain, snow, sunny days) and crime patterns?**
-3. **How do extreme weather events (e.g., heatwaves, cold fronts) correlate with crime rates?**
-4. **Are there time-of-day or day-of-week effects in relation to weather and crime?**
+1. **Has crime decreased or increased in St. Louis from 2021 to 2023?**
+2. **Does crime peak by season of the year (winter, spring, summer, fall)?**
+3. **How have different types of crime (e.g., violent, property, drug-related) increased or decreased?**
+4. **Do crimes trend a certain way compared to the time of day?**
+5. **What time of year has the least amount of crime?**
 
 ## Table of Contents:
 
