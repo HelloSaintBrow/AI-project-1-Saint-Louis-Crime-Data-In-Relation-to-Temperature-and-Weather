@@ -3,6 +3,7 @@
 This project uses Exploratory Data Analysis (EDA) to examine a dataset of crime incidents, temperature, and weather conditions in St. Louis, Missouri. The objective is to identify potential connections or trends between crime rates and various weather factors, such as temperature, precipitation, and other environmental variables. Through this analysis, the project seeks to shed light on how weather might impact crime patterns in the city.
 
 ![picture of Downtown St. Louis, MO with view of The Gateway Arch](stl.jpg)
+Picture sourced from [Fodor's Travel](https://www.fodors.com/)
 
 ### Key Questions:
 
