@@ -1,6 +1,6 @@
 # Crime Trends Analysis in St. Louis, MO (2021-2023)
 
-This project uses Exploratory Data Analysis (EDA) to examine a dataset of crime incidents, temperature, and weather conditions in St. Louis, Missouri. The objective is to identify potential connections or trends between crime rates and various weather factors, such as temperature, precipitation, and other environmental variables. Through this analysis, the project seeks to shed light on how weather might impact crime patterns in the city.
+This project uses Exploratory Data Analysis (EDA) to examine a dataset of crime trends St. Louis, Missouri from 2021-2023. The objective of this project is to analyze crime trends in St. Louis from 2021 to 2023 to answer key questions about crime patterns in the city. Specifically, the project seeks to determine whether crime has increased or decreased during this period, how crime varies by season, and how different types of crime (such as violent, property, and drug-related crimes) have changed over time. Additionally, the analysis will explore whether crime shows certain patterns based on the time of day and identify which time of year experiences the least amount of crime. Through this investigation, the project aims to provide a clearer understanding of how crime trends have evolved and where they might be most concentrated throughout the year.
 
 ![picture of Downtown St. Louis, MO with view of The Gateway Arch](stl.jpg)
 Picture sourced from [Fodor's Travel](https://www.fodors.com/)
