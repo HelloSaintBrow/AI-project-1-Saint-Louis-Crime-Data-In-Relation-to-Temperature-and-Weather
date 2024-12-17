@@ -17,11 +17,11 @@ Picture sourced from [Fodor's Travel](https://www.fodors.com/)
 
 1. [Project Objectives](#project-objectives)
 2. [Why It Matters](#why-it-matters)
-3. [Next Steps](#next-steps)
-4. [Research Approach](#research-approach)
-5. [Datasets](#datasets)
-6. [Tools and Libraries](#tools-and-libraries)
-7. [Analysis and Conclusion](#analysis-and-conclusion)
+3. [Research Approach](#research-approach)
+4. [Datasets](#datasets)
+5. [Tools and Libraries](#tools-and-libraries)
+6. [Analysis and Conclusion](#analysis-and-conclusion)
+7. [Next Steps](#next-steps)
 
 ## Project Objectives
 
@@ -54,20 +54,6 @@ Moreover, identifying patterns in crime by time of day or year can help optimize
 
 Ultimately, understanding how crime trends shift over time and in relation to external factors empowers local authorities and citizens alike to take proactive steps in improving safety and quality of life in St. Louis.
 
-## Next Steps
-
-1. **Refining Analysis**  
-   Conduct deeper analysis on seasonal and time-of-day crime patterns to identify trends and anomalies that can inform targeted crime prevention strategies.
-
-2. **Predictive Modeling**  
-   Develop and test predictive models to forecast future crime trends based on historical data. This could help law enforcement anticipate potential crime spikes and allocate resources more effectively.
-
-
-3. **Weather Impact Study**  
-   Investigate the relationship between weather conditions (e.g., temperature, precipitation) and crime rates. Understanding whether specific weather patterns influence crime could help law enforcement plan for weather-related spikes in criminal activity.
-
-4. **Policy Recommendations**  
-   Based on the analysis, develop actionable recommendations for law enforcement, policymakers, and urban planners to reduce crime and improve public safety in St. Louis.
 
 ## Research Approach
 
@@ -93,6 +79,17 @@ The following tools and libraries were used for analysis and development:
 - **Visual Studio Code**: Development environment used for coding, debugging, and project management.
 
 ## Analysis and Conclusion
+
+## Next Steps
+
+1. **Predictive Modeling**  
+   Develop and test predictive models to forecast future crime trends based on historical data. This could help law enforcement anticipate potential crime spikes and allocate resources more effectively.
+
+2. **Weather Impact Study**  
+   Investigate the relationship between weather conditions (e.g., temperature, precipitation) and crime rates. Understanding whether specific weather patterns influence crime could help law enforcement plan for weather-related spikes in criminal activity.
+
+3. **Policy Recommendations**  
+   Based on the analysis, develop actionable recommendations for law enforcement, policymakers, and urban planners to reduce crime and improve public safety in St. Louis.
 
 
   ***
