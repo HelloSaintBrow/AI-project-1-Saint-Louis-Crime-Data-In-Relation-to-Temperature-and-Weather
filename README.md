@@ -40,7 +40,7 @@ Picture sourced from [Fodor's Travel](https://www.fodors.com/)
 
 - Summarize key characteristics of crime data to identify overall trends.
 - Use visualizations and correlation analysis to uncover relationships between crime rates and seasonal factors.
-- Investigate how different types of crime (violent, property, drug-related) have evolved over time.
+- Investigate how different types of crime have evolved over time.
 
 ### 3. **Time and Seasonal Analysis**
 
