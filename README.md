@@ -1,4 +1,4 @@
-# Crime Trends Analysis in St. Louis, MO (2021-2023)
+# Top Five Crime Trends Analysis in St. Louis, MO (2021-2023)
 
 This project uses Exploratory Data Analysis (EDA) to examine the top five crime trends in St. Louis, Missouri, from 2021 to 2023. We chose to focus on St. Louis due to its designation as the city with the highest crime rates in the United States, making its dataset particularly rich and insightful for analysis. The goal of this project is to analyze how crime has evolved over this period and answer key questions about its patterns. Specifically, the project will explore whether crime has increased or decreased, how it varies by season, and how different types of crime—such as violent, property, and drug-related offenses—have changed over time. Additionally, the analysis will investigate if crime trends differ by time of day and identify the time of year with the least amount of crime. By examining these factors, the project aims to provide a clearer understanding of crime trends in St. Louis and reveal where and when crime is most concentrated throughout the year.
 
@@ -85,8 +85,9 @@ The following tools and libraries were used for analysis and development:
 
 3. **Policy Recommendations**  
     Based on the analysis, develop actionable recommendations for law enforcement, policymakers, and urban planners to reduce crime and improve public safety in St. Louis.
+   
+  ***
 
-   ***
 
 ## License
 
