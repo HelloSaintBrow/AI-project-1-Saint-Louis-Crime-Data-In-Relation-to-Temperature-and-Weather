@@ -73,7 +73,7 @@ Ultimately, understanding how crime trends shift over time and in relation to ex
 6. **Policy Recommendations**  
    Based on the analysis, develop actionable recommendations for law enforcement, policymakers, and urban planners to reduce crime and improve public safety in St. Louis.
 
-   ## Research Approach
+## Research Approach
 
 We used a **descriptive analysis method** for this project, which involves summarizing raw data to provide basic insights, such as averages, counts, and trends. This approach helps answer **"what happened"** questions by examining the overall patterns and changes in crime over time.
 
