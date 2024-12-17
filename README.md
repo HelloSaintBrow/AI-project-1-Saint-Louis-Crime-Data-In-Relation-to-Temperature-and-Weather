@@ -93,7 +93,7 @@ St.Louis, MO overall crime trends 2021-2023 graph
 
    ![St.Louis,MO total crime by season 2021-2023 graph](total-crime-by-season.png)
    
-   St.Louis,MO total crime by season 2021-2023 graph
+   St.Louis, MO total crime by season 2021-2023 graph
 
 3. **Time of Day and Crime Type**:  
    Analysis of the time of day when crimes were committed showed that evenings, particularly between 6 PM and 9 PM, had the highest crime occurrence across the five crime types studied. This highlights the need for increased law enforcement presence during these peak hours. Conversely, the fewest crimes were committed at night, suggesting that crime activity tends to subside after late evening.
