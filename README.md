@@ -15,6 +15,9 @@ Picture sourced from [Fodor's Travel](https://www.fodors.com/)
 1. [Key Questions](#key-questions)
 2. [Project Objectives](#project-objectives)
 3. [Research Approach](#research-approach)
+1. [Key Questions](#key-questions)
+2. [Project Objectives](#project-objectives)
+3. [Research Approach](#research-approach)
 4. [Datasets](#datasets)
 5. [Tools and Libraries](#tools-and-libraries)
 6. [Analysis and Conclusion](#analysis-and-conclusion)
@@ -75,6 +78,11 @@ The following tools and libraries were used for analysis and development:
 - **Visual Studio Code**: Development environment used for coding, debugging, and project management.
 
 ## Analysis and Conclusion
+In our Exploratory Data Analysis (EDA), we investigated the changes in crime rates in St. Louis over the past three years. We identified seasonal patterns and trends based on the time of day, and we also observed variations among different crime categories. The comprehensive results and visualizations can be found in the accompanying analysis files. The main findings aim to:
+
+1-Identify times of increased criminal activity, such as specific months or times of day.
+2-Highlight crime categories that have experienced significant increases or decreases.
+3-Provide insights into seasonal trends that can inform resource allocation and community outreach efforts.
 
 ## Next Steps
 
@@ -90,6 +98,6 @@ The following tools and libraries were used for analysis and development:
 
   ***
 
-## License
+  ## License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
