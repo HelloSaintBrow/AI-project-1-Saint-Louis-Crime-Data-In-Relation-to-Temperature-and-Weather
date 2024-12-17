@@ -76,7 +76,7 @@ Ultimately, understanding how crime trends shift over time and in relation to ex
 
 ### 1. **St. Louis Crime Data**
 
-- **Description**: This dataset contains records of reported crimes in St. Louis from 2021 to 2023, including details such as crime type, location, date, and time. It provides a comprehensive overview of crime trends across the city.
+- **Description**: This dataset contains records of reported crimes in St. Louis from 2021 to 2023, including details such as crime type, location, date, and time. It provides a comprehensive overview of crime trends across the city. We focused on data fields reflecting the types of crimes, times of day crimes were committed, monthly rates of crimes, seasonal rates of crimes, and yearly data values, allowing for a thorough exploration of how crime patterns have evolved over time.
 
 - **Source**: [St. Louis Metropolitan Police Department](https://slmpd.org/stats/)
 
