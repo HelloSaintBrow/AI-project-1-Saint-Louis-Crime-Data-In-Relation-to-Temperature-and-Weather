@@ -101,7 +101,7 @@ St.Louis, MO overall crime trends 2021-2023 graph
 
 ![St.Louis, MO time of day and crime type 2021-2023 graph](total-crimes-by-time-of-day.png)
    
-St.Louis, MO time of day and crime type 2021-2023 graph
+St.Louis, MO crime time of day 2021-2023 graph
 
 4. **Most Common Crimes**:  
    Car theft emerged as the most frequent crime type, suggesting a targeted area for prevention efforts. Property damage (1st Degree), on the other hand, occurred less frequently than other crime types, indicating that property damage may not be as widespread as other criminal activities.
