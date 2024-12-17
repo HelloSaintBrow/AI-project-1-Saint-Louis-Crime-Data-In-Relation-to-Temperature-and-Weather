@@ -9,6 +9,17 @@ This project also seeks to inform urban planning and community development effor
 ![picture of Downtown St. Louis, MO with view of The Gateway Arch](stl.jpg)
 Picture sourced from [Fodor's Travel](https://www.fodors.com/)
 
+
+## Table of Contents:
+
+1. [Key Questions](#key-questions)
+2. [Project Objectives](#project-objectives)
+3. [Research Approach](#research-approach)
+4. [Datasets](#datasets)
+5. [Tools and Libraries](#tools-and-libraries)
+6. [Analysis and Conclusion](#analysis-and-conclusion)
+7. [Next Steps](#next-steps)
+
 ### Key Questions:
 
 1. **Has crime decreased or increased in St. Louis from 2021 to 2023?**
@@ -16,15 +27,6 @@ Picture sourced from [Fodor's Travel](https://www.fodors.com/)
 3. **How have different types of crime (e.g., violent, property, drug-related) increased or decreased?**
 4. **Do crimes trend a certain way compared to the time of day?**
 5. **What time of year has the least amount of crime?**
-
-## Table of Contents:
-
-1. [Project Objectives](#project-objectives)
-2. [Research Approach](#research-approach)
-3. [Datasets](#datasets)
-4. [Tools and Libraries](#tools-and-libraries)
-5. [Analysis and Conclusion](#analysis-and-conclusion)
-6. [Next Steps](#next-steps)
 
 ## Project Objectives
 
