@@ -61,16 +61,11 @@ Ultimately, understanding how crime trends shift over time and in relation to ex
 2. **Predictive Modeling**  
    Develop and test predictive models to forecast future crime trends based on historical data. This could help law enforcement anticipate potential crime spikes and allocate resources more effectively.
 
-3. **Geospatial Analysis**  
-   Incorporate geographical data to explore spatial crime patterns in St. Louis. By analyzing crime by location, we can identify hotspots and provide more granular insights into regional crime trends.
 
-4. **Weather Impact Study**  
+3. **Weather Impact Study**  
    Investigate the relationship between weather conditions (e.g., temperature, precipitation) and crime rates. Understanding whether specific weather patterns influence crime could help law enforcement plan for weather-related spikes in criminal activity.
 
-5. **Visualization and Dashboard**  
-   Create interactive visualizations and dashboards (using tools like Streamlit or Tableau) to present findings in an engaging way. This would allow stakeholders and the public to explore the data and trends interactively.
-
-6. **Policy Recommendations**  
+4. **Policy Recommendations**  
    Based on the analysis, develop actionable recommendations for law enforcement, policymakers, and urban planners to reduce crime and improve public safety in St. Louis.
 
 ## Research Approach
@@ -96,8 +91,11 @@ The following tools and libraries were used for analysis and development:
 - **Jupyter Notebooks**: For documenting and sharing the analysis process interactively.
 - **Visual Studio Code**: Development environment used for coding, debugging, and project management.
 
+## Analysis & Conclusion
+
+
   ***
 
-  ## License
+## License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
