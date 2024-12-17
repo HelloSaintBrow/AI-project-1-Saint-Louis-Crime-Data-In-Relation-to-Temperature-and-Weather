@@ -85,7 +85,7 @@ The analysis of crime trends in St. Louis from 2021 to 2023 reveals several key 
 
 ![Overall Crime Trends 2021-2023 graph](overall-crime-trends.png)
    
-St.Louis, MO overall crime trends 2021-2023 graph
+
 
 
 2. **Summer Crime Trends**:  
@@ -94,7 +94,7 @@ St.Louis, MO overall crime trends 2021-2023 graph
 
 ![St.Louis,MO total crime by season 2021-2023 graph](total-crime-by-season.png)
    
-St.Louis, MO total crime by season 2021-2023 graph
+
 
 
 3. **Winter Crime Trends**:  
@@ -103,7 +103,7 @@ St.Louis, MO total crime by season 2021-2023 graph
 
 ![St.Louis, MO seasonal crime rates 2021-2023 graph](monthly-crime-trends.png)
    
-St.Louis, MO seasonal crime rates 2021-2023 graph
+
 
 
 4. **Time of Day and Crime Type**:  
@@ -112,7 +112,7 @@ St.Louis, MO seasonal crime rates 2021-2023 graph
 
 ![St.Louis, MO time of day and crime type 2021-2023 graph](total-crimes-by-time-of-day.png)
    
-St.Louis, MO crime time of day 2021-2023 graph
+
 
 
 5. **Most Common Crimes**:  
@@ -121,7 +121,7 @@ St.Louis, MO crime time of day 2021-2023 graph
 
 ![St.Louis, MO top five crime trends 2021-2023 graph](type-of-crime.png)
    
-St.Louis, MO top five crime trends 2021-2023 graph
+
 
 
    
