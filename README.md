@@ -71,13 +71,13 @@ Ultimately, understanding how crime trends shift over time and in relation to ex
 
 ## Research Approach
 
-We used a **descriptive analysis method** for this project, which involves summarizing raw data to provide basic insights, such as averages, counts, and trends. This approach helps answer **"what happened"** questions by examining the overall patterns and changes in crime over time.
+A **descriptive analysis method** was used, involving the summarization of raw data to provide basic insights, such as averages, counts, and trends. This approach helps answer 'what happened' questions by examining the overall patterns and changes in crime over time.
 
 ## Datasets
 
 ### 1. **St. Louis Crime Data**
 
-- **Description**: This dataset contains records of reported crimes in St. Louis from 2021 to 2023, including details such as crime type, location, date, and time. It provides a comprehensive overview of crime trends across the city. We focused on data fields reflecting the types of crimes, times of day crimes were committed, monthly rates of crimes, seasonal rates of crimes, and yearly data values, allowing for a thorough exploration of how crime patterns have evolved over time.
+- **Description**: Records of reported crimes in St. Louis from 2021 to 2023 are included in this dataset, featuring details such as crime type, location, date, and time. It provides a comprehensive overview of crime trends across the city. Focus was placed on data fields reflecting the types of crimes, times of day crimes were committed, monthly crime rates, seasonal crime trends, and yearly data values, enabling a thorough exploration of how crime patterns have evolved over time.
 
 - **Source**: [St. Louis Metropolitan Police Department](https://slmpd.org/stats/)
 
