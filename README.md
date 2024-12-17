@@ -2,6 +2,10 @@
 
 This project uses Exploratory Data Analysis (EDA) to examine crime trends in St. Louis, Missouri, from 2021 to 2023. We chose to focus on St. Louis due to its designation as the city with the highest crime rates in the United States, making its dataset particularly rich and insightful for analysis. The goal of this project is to analyze how crime has evolved over this period and answer key questions about its patterns. Specifically, the project will explore whether crime has increased or decreased, how it varies by season, and how different types of crime—such as violent, property, and drug-related offenses—have changed over time. Additionally, the analysis will investigate if crime trends differ by time of day and identify the time of year with the least amount of crime. By examining these factors, the project aims to provide a clearer understanding of crime trends in St. Louis and reveal where and when crime is most concentrated throughout the year.
 
+Understanding crime trends is crucial for developing effective public safety strategies and policies, not only for St. Louis but for other cities as well. While St. Louis provides a particularly rich dataset, the methods and insights derived from this research can be applied to other cities facing similar challenges. By identifying patterns in crime by time of day, season, and type, cities can optimize resource allocation and focus public safety initiatives during peak crime periods. If certain seasons, like winter or summer, see higher crime rates, targeted prevention measures can be put in place. Additionally, understanding how crime trends evolve over time can help cities forecast and mitigate future crime spikes more effectively.
+
+This project also seeks to inform urban planning and community development efforts by pinpointing areas with higher crime concentrations, which can be applied to other cities aiming to improve safety. By understanding how crime trends shift in relation to external factors, this research empowers authorities in cities of all sizes to take proactive steps in improving safety and quality of life, leveraging the lessons learned from St. Louis' experience.
+
 ![picture of Downtown St. Louis, MO with view of The Gateway Arch](stl.jpg)
 Picture sourced from [Fodor's Travel](https://www.fodors.com/)
 
@@ -16,12 +20,11 @@ Picture sourced from [Fodor's Travel](https://www.fodors.com/)
 ## Table of Contents:
 
 1. [Project Objectives](#project-objectives)
-2. [Why It Matters](#why-it-matters)
-3. [Research Approach](#research-approach)
-4. [Datasets](#datasets)
-5. [Tools and Libraries](#tools-and-libraries)
-6. [Analysis and Conclusion](#analysis-and-conclusion)
-7. [Next Steps](#next-steps)
+2. [Research Approach](#research-approach)
+3. [Datasets](#datasets)
+4. [Tools and Libraries](#tools-and-libraries)
+5. [Analysis and Conclusion](#analysis-and-conclusion)
+6. [Next Steps](#next-steps)
 
 ## Project Objectives
 
@@ -45,15 +48,6 @@ Picture sourced from [Fodor's Travel](https://www.fodors.com/)
 
 - Analyze how specific types of crime have increased or decreased over the period.
 - Identify if certain crimes tend to peak during specific seasons or times of day.
-
-## Why It Matters
-
-Understanding crime trends is crucial for developing effective public safety strategies and policies. By analyzing crime patterns in St. Louis from 2021 to 2023, this project aims to uncover key insights into how crime has evolved over time, how it fluctuates with the seasons, and which types of crime are on the rise or decline. These insights are valuable for law enforcement, policymakers, and community leaders who need data-driven strategies to address crime in a targeted and timely manner.
-
-Although St. Louis has the highest dataset for crime, the methods and insights derived from this research can be applied to other cities facing similar challenges. By identifying patterns in crime by time of day or year, cities can optimize resource allocation, ensuring that law enforcement and public safety initiatives are focused during peak crime periods. If certain times of the year, such as winter or summer, experience higher crime rates, other cities can adopt targeted prevention measures, just as St. Louis might. Moreover, understanding how crime varies seasonally or by crime type can help cities forecast and mitigate crime spikes more effectively.
-
-This project also seeks to inform urban planning and community development efforts by pinpointing areas with higher crime concentrations, which can be applied to other cities looking to improve safety. By understanding how crime trends shift over time and in relation to external factors, this research empowers authorities in cities of all sizes to take proactive steps in improving safety and quality of life, drawing on the lessons learned from St. Louis' experience.
-
 
 ## Research Approach
 
