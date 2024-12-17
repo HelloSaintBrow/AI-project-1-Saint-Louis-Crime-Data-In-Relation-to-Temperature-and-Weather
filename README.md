@@ -87,15 +87,26 @@ The analysis of crime trends in St. Louis from 2021 to 2023 reveals several key 
    
 St.Louis, MO overall crime trends 2021-2023 graph
 
-2. **Seasonal Crime Patterns**:  
+
+2. **Summer Crime Trends**:  
    Crime rates were consistently highest during the summer months, with July emerging as the peak month for both 2021 and 2022. However, 2023 experienced a notable shift, with January reporting the highest crime rates for that year. This seasonal variation underscores the importance of targeted interventions during the summer months while also considering potential seasonal shifts in crime patterns, such as those observed in early 2023.
    
 
-   ![St.Louis,MO total crime by season 2021-2023 graph](total-crime-by-season.png)
+![St.Louis,MO total crime by season 2021-2023 graph](total-crime-by-season.png)
    
-   St.Louis, MO total crime by season 2021-2023 graph
+St.Louis, MO total crime by season 2021-2023 graph
 
-3. **Time of Day and Crime Type**:  
+
+3. **Winter Crime Trends**:  
+   The winter months, particularly December through February, saw the fewest crime incidents across all types, which may reflect lower overall activity due to colder weather conditions. However, this should be carefully considered when planning resource allocation, as it does not necessarily imply the absence of criminal behavior, just a reduction in volume.
+
+
+![St.Louis, MO seasonal crime rates 2021-2023 graph](monthly-crime-trends.png)
+   
+St.Louis, MO seasonal crime rates 2021-2023 graph
+
+
+4. **Time of Day and Crime Type**:  
    Analysis of the time of day when crimes were committed showed that evenings, particularly between 6 PM and 9 PM, had the highest crime occurrence across the five crime types studied. This highlights the need for increased law enforcement presence during these peak hours. Conversely, the fewest crimes were committed at night, suggesting that crime activity tends to subside after late evening.
 
 
@@ -103,7 +114,8 @@ St.Louis, MO overall crime trends 2021-2023 graph
    
 St.Louis, MO crime time of day 2021-2023 graph
 
-4. **Most Common Crimes**:  
+
+5. **Most Common Crimes**:  
    Car theft emerged as the most frequent crime type, suggesting a targeted area for prevention efforts. Property damage (1st Degree), on the other hand, occurred less frequently than other crime types, indicating that property damage may not be as widespread as other criminal activities.
 
 
@@ -111,13 +123,7 @@ St.Louis, MO crime time of day 2021-2023 graph
    
 St.Louis, MO top five crime trends 2021-2023 graph
 
-5. **Winter Crime Trends**:  
-   The winter months, particularly December through February, saw the fewest crime incidents across all types, which may reflect lower overall activity due to colder weather conditions. However, this should be carefully considered when planning resource allocation, as it does not necessarily imply the absence of criminal behavior, just a reduction in volume.
 
-
- ![St.Louis, MO seasonal crime rates 2021-2023 graph](monthly-crime-trends.png)
-   
-St.Louis, MO seasonal crime rates 2021-2023 graph
    
 ### Conclusion
 The findings from this analysis provide critical insights into the patterns and distribution of crime in St. Louis. By understanding when and where crimes are most likely to occur—whether in summer months, evening hours, or specific crime types like car theft—city officials and law enforcement can better allocate resources to where they are most needed. Additionally, while seasonal trends suggest lower crime in winter, the peak months in the summer, especially July, should be a focus for preventative measures.
