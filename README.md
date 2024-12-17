@@ -21,6 +21,7 @@ Picture sourced from [Fodor's Travel](https://www.fodors.com/)
 4. [Research Approach](#research-approach)
 5. [Datasets](#datasets)
 6. [Tools and Libraries](#tools-and-libraries)
+7. [Analysis and Conclusion](#analysis-and-conclusion)
 
 ## Project Objectives
 
@@ -91,7 +92,7 @@ The following tools and libraries were used for analysis and development:
 - **Jupyter Notebooks**: For documenting and sharing the analysis process interactively.
 - **Visual Studio Code**: Development environment used for coding, debugging, and project management.
 
-## Analysis & Conclusion
+## Analysis and Conclusion
 
 
   ***
