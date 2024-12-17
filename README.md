@@ -1,9 +1,23 @@
 # Crime Trends Analysis in St. Louis, MO (2021-2023)
 
-This project uses Exploratory Data Analysis (EDA) to examine crime trends in St. Louis, Missouri, from 2021 to 2023. The goal is to analyze how crime has evolved over this period and answer key questions about its patterns. Specifically, the project will explore whether crime has increased or decreased, how it varies by season, and how different types of crime—such as violent, property, and drug-related offenses—have changed over time. Additionally, the analysis will investigate if crime trends differ by time of day and identify the time of year with the least amount of crime. By examining these factors, the project aims to provide a clearer understanding of crime trends in St. Louis and reveal where and when crime is most concentrated throughout the year.
+This project uses Exploratory Data Analysis (EDA) to examine the top five crime trends in St. Louis, Missouri, from 2021 to 2023. We chose to focus on St. Louis due to its designation as the city with the highest crime rates in the United States, making its dataset particularly rich and insightful for analysis. The goal of this project is to analyze how crime has evolved over this period and answer key questions about its patterns. Specifically, the project will explore whether crime has increased or decreased, how it varies by season, and how different types of crime—such as violent, property, and drug-related offenses—have changed over time. Additionally, the analysis will investigate if crime trends differ by time of day and identify the time of year with the least amount of crime. By examining these factors, the project aims to provide a clearer understanding of crime trends in St. Louis and reveal where and when crime is most concentrated throughout the year.
+
+Understanding crime trends is crucial for developing effective public safety strategies and policies, not only for St. Louis but for other cities as well. While St. Louis provides a particularly rich dataset, the methods and insights derived from this research can be applied to other cities facing similar challenges. By identifying patterns in crime by time of day, season, and type, cities can optimize resource allocation and focus public safety initiatives during peak crime periods. If certain seasons, like winter or summer, see higher crime rates, targeted prevention measures can be put in place. Additionally, understanding how crime trends evolve over time can help cities forecast and mitigate future crime spikes more effectively.
+
+This research empowers authorities in cities of all sizes to take proactive steps in improving safety and quality of life, leveraging the lessons learned from St. Louis' experience.
 
 ![picture of Downtown St. Louis, MO with view of The Gateway Arch](stl.jpg)
 Picture sourced from [Fodor's Travel](https://www.fodors.com/)
+
+## Table of Contents:
+
+1. [Key Questions](#key-questions)
+2. [Project Objectives](#project-objectives)
+3. [Research Approach](#research-approach)
+4. [Datasets](#datasets)
+5. [Tools and Libraries](#tools-and-libraries)
+6. [Analysis and Conclusion](#analysis-and-conclusion)
+7. [Next Steps](#next-steps)
 
 ### Key Questions:
 
@@ -12,14 +26,6 @@ Picture sourced from [Fodor's Travel](https://www.fodors.com/)
 3. **How have different types of crime (e.g., violent, property, drug-related) increased or decreased?**
 4. **Do crimes trend a certain way compared to the time of day?**
 5. **What time of year has the least amount of crime?**
-
-## Table of Contents:
-
-1. [Project Objectives](#project-objectives)
-2. [Why It Matters](#why-it-matters)
-3. [Next Steps](#next-steps)
-4. [Datasets](#datasets)
-5. [Tools and Libraries](#tools-and-libraries)
 
 ## Project Objectives
 
@@ -44,39 +50,15 @@ Picture sourced from [Fodor's Travel](https://www.fodors.com/)
 - Analyze how specific types of crime have increased or decreased over the period.
 - Identify if certain crimes tend to peak during specific seasons or times of day.
 
-## Why It Matters
+## Research Approach
 
-Understanding crime trends is crucial for developing effective public safety strategies and policies. By analyzing crime patterns in St. Louis from 2021 to 2023, this project aims to uncover key insights into how crime has evolved over time, how it fluctuates with the seasons, and which types of crime are on the rise or decline. These insights are valuable for law enforcement, policymakers, and community leaders who need data-driven strategies to address crime in a targeted and timely manner.
-
-Moreover, identifying patterns in crime by time of day or year can help optimize resource allocation, ensuring that law enforcement and public safety initiatives are focused during peak crime periods. If certain times of the year, such as winter or summer, experience higher crime rates, targeted prevention measures can be put in place. This project also seeks to inform urban planning and community development efforts by pinpointing areas with higher crime concentrations.
-
-Ultimately, understanding how crime trends shift over time and in relation to external factors empowers local authorities and citizens alike to take proactive steps in improving safety and quality of life in St. Louis.
-
-## Next Steps
-
-1. **Refining Analysis**  
-   Conduct deeper analysis on seasonal and time-of-day crime patterns to identify trends and anomalies that can inform targeted crime prevention strategies.
-
-2. **Predictive Modeling**  
-   Develop and test predictive models to forecast future crime trends based on historical data. This could help law enforcement anticipate potential crime spikes and allocate resources more effectively.
-
-3. **Geospatial Analysis**  
-   Incorporate geographical data to explore spatial crime patterns in St. Louis. By analyzing crime by location, we can identify hotspots and provide more granular insights into regional crime trends.
-
-4. **Weather Impact Study**  
-   Investigate the relationship between weather conditions (e.g., temperature, precipitation) and crime rates. Understanding whether specific weather patterns influence crime could help law enforcement plan for weather-related spikes in criminal activity.
-
-5. **Visualization and Dashboard**  
-   Create interactive visualizations and dashboards (using tools like Streamlit or Tableau) to present findings in an engaging way. This would allow stakeholders and the public to explore the data and trends interactively.
-
-6. **Policy Recommendations**  
-   Based on the analysis, develop actionable recommendations for law enforcement, policymakers, and urban planners to reduce crime and improve public safety in St. Louis.
+A **descriptive analysis method** was used, involving the summarization of raw data to provide basic insights, such as averages, counts, and trends. This approach helps answer 'what happened' questions by examining the overall patterns and changes in crime over time.
 
 ## Datasets
 
 ### 1. **St. Louis Crime Data**
 
-- **Description**: This dataset contains records of reported crimes in St. Louis from 2021 to 2023, including details such as crime type, location, date, and time. It provides a comprehensive overview of crime trends across the city.
+- **Description**: Records of reported crimes in St. Louis from 2021 to 2023 are included in this dataset, featuring details such as crime type, location, date, and time. It provides a comprehensive overview of crime trends across the city. Focus was placed on data fields reflecting the types of crimes, times of day crimes were committed, monthly crime rates, seasonal crime trends, and yearly data values, enabling a thorough exploration of how crime patterns have evolved over time.
 
 - **Source**: [St. Louis Metropolitan Police Department](https://slmpd.org/stats/)
 
@@ -87,13 +69,25 @@ The following tools and libraries were used for analysis and development:
 - **Python**: Programming language for data processing, analysis, and visualization.
 - **Pandas**: Data manipulation and analysis.
 - **NumPy**: Numerical computing and data manipulation.
-- **Matplotlib & Seaborn**: Data visualization libraries for creating plots and charts.
-- **Scikit-learn**: For statistical analysis and potential predictive modeling.
+- **Matplotlib**: Data visualization libraries for creating plots and charts.
 - **Jupyter Notebooks**: For documenting and sharing the analysis process interactively.
 - **Visual Studio Code**: Development environment used for coding, debugging, and project management.
 
-  ***
+## Analysis and Conclusion
 
-  ## License
+## Next Steps
+
+1. **Predictive Modeling**  
+   Develop and test predictive models to forecast future crime trends based on historical data. This could help law enforcement anticipate potential crime spikes and allocate resources more effectively.
+
+2. **Weather Impact Study**  
+   Investigate the relationship between weather conditions (e.g., temperature, precipitation) and crime rates. Understanding whether specific weather patterns influence crime could help law enforcement plan for weather-related spikes in criminal activity.
+
+3. **Policy Recommendations**  
+    Based on the analysis, develop actionable recommendations for law enforcement, policymakers, and urban planners to reduce crime and improve public safety in St. Louis.
+
+   ***
+
+## License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
