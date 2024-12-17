@@ -4,7 +4,7 @@ This project uses Exploratory Data Analysis (EDA) to examine the top five crime 
 
 Understanding crime trends is crucial for developing effective public safety strategies and policies, not only for St. Louis but for other cities as well. While St. Louis provides a particularly rich dataset, the methods and insights derived from this research can be applied to other cities facing similar challenges. By identifying patterns in crime by time of day, season, and type, cities can optimize resource allocation and focus public safety initiatives during peak crime periods. If certain seasons, like winter or summer, see higher crime rates, targeted prevention measures can be put in place. Additionally, understanding how crime trends evolve over time can help cities forecast and mitigate future crime spikes more effectively.
 
-This project also seeks to inform urban planning and community development efforts by pinpointing areas with higher crime concentrations, which can be applied to other cities aiming to improve safety. By understanding how crime trends shift in relation to external factors, this research empowers authorities in cities of all sizes to take proactive steps in improving safety and quality of life, leveraging the lessons learned from St. Louis' experience.
+This research empowers authorities in cities of all sizes to take proactive steps in improving safety and quality of life, leveraging the lessons learned from St. Louis' experience.
 
 ![picture of Downtown St. Louis, MO with view of The Gateway Arch](stl.jpg)
 Picture sourced from [Fodor's Travel](https://www.fodors.com/)
