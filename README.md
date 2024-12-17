@@ -6,6 +6,7 @@ Understanding crime trends is crucial for developing effective public safety str
 
 This research empowers authorities in cities of all sizes to take proactive steps in improving safety and quality of life, leveraging the lessons learned from St. Louis' experience.
 
+
 ![picture of Downtown St. Louis, MO with view of The Gateway Arch](stl.jpg)
 Picture sourced from [Fodor's Travel](https://www.fodors.com/)
 
@@ -85,11 +86,11 @@ The following tools and libraries were used for analysis and development:
    Investigate the relationship between weather conditions (e.g., temperature, precipitation) and crime rates. Understanding whether specific weather patterns influence crime could help law enforcement plan for weather-related spikes in criminal activity.
 
 3. **Policy Recommendations**  
-   Based on the analysis, develop actionable recommendations for law enforcement, policymakers, and urban planners to reduce crime and improve public safety in St. Louis.
 
-
+    Based on the analysis, develop actionable recommendations for law enforcement, policymakers, and urban planners to reduce crime and improve public safety in St. Louis.
+   
   ***
-
+  
 ## License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
