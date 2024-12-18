@@ -1,7 +1,7 @@
 # St. Louis, MO Crime Trends Analysis (2021-2023
 
 
-## Table of Contents:
+## Table of Contents
 
 1. [Contributors](#contributors)
 2. [Executive Summary](#executive-summary)
