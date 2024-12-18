@@ -56,13 +56,13 @@ Picture sourced from [Fodor's Travel](https://www.fodors.com/)
 
 ### 3. **Time and Seasonal Analysis**
 
-- Examine fluctuations in crime rates across different times of the day, days of the week, and seasons of the year.
-- Identify any seasonal or temporal patterns in crime incidents, such as spikes in specific months or times.
+- Examine fluctuations in the top five crimes in St. Louis, MO across different times of the day, days of the week, and seasons of the year.
+- Identify any seasonal or temporal patterns in the top five crimes in St. Louis, MO incidents, such as spikes in specific months or times.
 
 ### 4. **Crime Type Analysis**
 
-- Analyze how specific types of crime have increased or decreased over the period.
-- Identify if certain crimes tend to peak during specific seasons or times of day.
+- Analyze how the top five crimes in St. Louis, MO have increased or decreased over the period.
+- Identify if certain crimes of the top five tend to peak during specific seasons or times of day.
 
 
 ## Research Approach
