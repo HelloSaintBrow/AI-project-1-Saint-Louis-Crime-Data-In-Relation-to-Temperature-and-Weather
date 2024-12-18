@@ -32,7 +32,7 @@ Understanding crime trends is crucial for developing effective public safety str
 This research empowers authorities in cities of all sizes to take proactive steps in improving safety and quality of life, leveraging the lessons learned from St. Louis' experience.
 
 ![picture of Downtown St. Louis, MO with view of The Gateway Arch](stl.jpg)
-Picture sourced from [Fodor's Travel](https://www.fodors.com/)
+Pictured is a view of St. Louis, MO's The Gateway Arch from Downtown St. Louis. The Gateway Arch is 630 feet high, making it the tallest monument in the United States. Picture sourced from [Fodor's Travel](https://www.fodors.com/)
 
 
 ### Key Questions
