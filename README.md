@@ -1,4 +1,22 @@
-# St. Louis, MO Crime Trends Analysis (2021-2023)
+# St. Louis, MO Crime Trends Analysis (2021-2023
+
+
+## Table of Contents:
+
+1. [Contributors](#contributors)
+2. [Executive Summary](#executive-summary)
+3. [Key Questions](#key-questions)
+4. [Project Objectives](#project-objectives)
+5. [Research Approach](#research-approach)
+6. [Datasets](#datasets)
+7. [Tools and Libraries](#tools-and-libraries)
+8. [Analysis and Conclusion](#analysis-and-conclusion)
+9. [Next Steps](#next-steps)
+
+
+## Contributors
+
+Cameron Keplinger, Eshumael Manhanzva, Leslie Bland, Luther Johnson, Saurabh Pratap Singh, Tyler Shubert (Advisor), and Valarie Miller
 
 
 ## Executive Summary 
@@ -13,19 +31,6 @@ This research empowers authorities in cities of all sizes to take proactive step
 ![picture of Downtown St. Louis, MO with view of The Gateway Arch](stl.jpg)
 Picture sourced from [Fodor's Travel](https://www.fodors.com/)
 
-## Contributors
-
-Cameron Keplinger, Eshumael Manhanzva, Leslie Bland, Luther Johnson, Saurabh Pratap Singh, Tyler Shubert (Advisor), and Valarie Miller
-
-## Table of Contents:
-
-1. [Key Questions](#key-questions)
-2. [Project Objectives](#project-objectives)
-3. [Research Approach](#research-approach)
-4. [Datasets](#datasets)
-5. [Tools and Libraries](#tools-and-libraries)
-6. [Analysis and Conclusion](#analysis-and-conclusion)
-7. [Next Steps](#next-steps)
 
 ### Key Questions:
 
@@ -34,6 +39,7 @@ Cameron Keplinger, Eshumael Manhanzva, Leslie Bland, Luther Johnson, Saurabh Pra
 3. **How have different types of crime (e.g., violent, property, drug-related) increased or decreased?**
 4. **Do crimes trend a certain way compared to the time of day?**
 5. **What time of year has the least amount of crime?**
+
 
 ## Project Objectives
 
@@ -58,9 +64,11 @@ Cameron Keplinger, Eshumael Manhanzva, Leslie Bland, Luther Johnson, Saurabh Pra
 - Analyze how specific types of crime have increased or decreased over the period.
 - Identify if certain crimes tend to peak during specific seasons or times of day.
 
+
 ## Research Approach
 
 A **descriptive analysis method** was used, involving the summarization of raw data to provide basic insights, such as averages, counts, and trends. This approach helps answer 'what happened' questions by examining the overall patterns and changes in crime over time.
+
 
 ## Datasets
 
@@ -69,6 +77,7 @@ A **descriptive analysis method** was used, involving the summarization of raw d
 - **Description**: Records of reported crimes in St. Louis from 2021 to 2023 are included in this dataset, featuring details such as crime type, location, date, and time. It provides a comprehensive overview of crime trends across the city. Focus was placed on data fields reflecting the types of crimes, times of day crimes were committed, monthly crime rates, seasonal crime trends, and yearly data values, enabling a thorough exploration of how crime patterns have evolved over time.
 
 - **Source**: [St. Louis Metropolitan Police Department](https://slmpd.org/stats/)
+
 
 ## Tools and Libraries
 
@@ -80,6 +89,7 @@ The following tools and libraries were used for analysis and development:
 - **Matplotlib**: Data visualization libraries for creating plots and charts.
 - **Jupyter Notebooks**: For documenting and sharing the analysis process interactively.
 - **Visual Studio Code**: Development environment used for coding, debugging, and project management.
+
 
 ## Analysis and Conclusion
 
@@ -167,8 +177,10 @@ Building on the insights gained from the analysis of crime trends in St. Louis f
 
 9. **Collaboration with Other Cities**  
    Given the broader implications of these findings, explore opportunities for collaboration with other cities facing similar crime challenges. Sharing insights and strategies across cities could lead to more comprehensive crime reduction programs and best practices. Collaborative networks could also facilitate joint research initiatives focused on crime prevention and community safety.
+
    
   ***
+
   
 ## License
 
