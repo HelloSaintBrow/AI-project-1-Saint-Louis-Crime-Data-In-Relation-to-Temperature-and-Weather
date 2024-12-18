@@ -60,7 +60,7 @@ Pictured is a view of The Gateway Arch as seen from Downtown St. Louis, MO. Stan
 #### 3. **Time and Seasonal Analysis**
 
 - Examine fluctuations in the top five crimes in St. Louis, MO across different times of the day, days of the week, and seasons of the year.
-- Identify any seasonal or temporal patterns in the top five crimes in St. Louis, MO incidents, such as spikes in specific months or times.
+- Identify any seasonal patterns in the top five crimes in St. Louis, MO incidents, such as spikes in specific months or times.
 
 ### 4. **Crime Type Analysis**
 
