@@ -12,6 +12,7 @@
 7. [Tools and Libraries](#tools-and-libraries)
 8. [Analysis and Conclusion](#analysis-and-conclusion)
 9. [Next Steps](#next-steps)
+10. [How To Run The Application](#how-to-run-the-application)
 
 
 ## Contributors
@@ -150,7 +151,7 @@ The findings from this analysis provide critical insights into the patterns and 
 These insights offer a foundation for further predictive modeling, resource optimization, and policy recommendations aimed at reducing crime and improving public safety in St. Louis and similar cities.
 
 
-### Next Steps
+## Next Steps
 
 Building on the insights gained from the analysis of crime trends in St. Louis from 2021 to 2023, several next steps can be pursued to further enhance public safety strategies and improve the effectiveness of crime prevention efforts. These steps aim to address both immediate concerns and long-term goals, with a focus on predictive analytics, targeted interventions, and resource optimization.
 
@@ -181,6 +182,8 @@ Building on the insights gained from the analysis of crime trends in St. Louis f
 9. **Collaboration with Other Cities**  
    Given the broader implications of these findings, explore opportunities for collaboration with other cities facing similar crime challenges. Sharing insights and strategies across cities could lead to more comprehensive crime reduction programs and best practices. Collaborative networks could also facilitate joint research initiatives focused on crime prevention and community safety.
 
+
+## How To Run The Application
    
   ***
 
