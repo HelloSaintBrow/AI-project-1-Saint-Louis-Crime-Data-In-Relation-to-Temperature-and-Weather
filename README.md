@@ -11,7 +11,8 @@
 6. [Datasets](#datasets)
 7. [Analysis and Conclusion](#analysis-and-conclusion)
 8. [Next Steps](#next-steps)
-9. [How To Run](#how-to-run)
+9. [Tools and Libraries](#tools-and-libraries)
+10. [How To Run](#how-to-run)
 
 
 ## Contributors
@@ -170,9 +171,7 @@ Building on the insights gained from the analysis of crime trends in St. Louis f
    Given the broader implications of these findings, explore opportunities for collaboration with other cities facing similar crime challenges. Sharing insights and strategies across cities could lead to more comprehensive crime reduction programs and best practices. Collaborative networks could also facilitate joint research initiatives focused on crime prevention and community safety.
 
 
-## How To Run
-
-### Tools and Libraries
+## Tools and Libraries
 
 The following tools and libraries were used for analysis and development:
 
@@ -184,15 +183,31 @@ The following tools and libraries were used for analysis and development:
 - **Jupyter Notebooks**: For documenting and sharing the analysis process interactively.
 - **Visual Studio Code**: Development environment used for coding, debugging, and project management.
 
-### St. Louis Crime Dataset
+## How To Run
 
-- **Source**: [St. Louis Metropolitan Police Department](https://slmpd.org/stats/)
+**1.) Install the following tools and libraries**
 
-### Visual Studio Code file: [St. Louis Crime Data](Saint_Louis_Crime_Data.ipynb)
+- Python
+- Pandas
+- NumPy 
+- Matplotlib & Seaborn
+- Scikit-learn
+- Jupyter Notebooks
+- Visual Studio Code
 
-### Run The File
+**2.) Prepare the Dataset**:
 
-### View Results
+[St. Louis Metropolitan Police Department](https://slmpd.org/stats/)
+
+**3). Open the Application**:
+
+- Open the Jupyter Notebook file 
+
+**4.) Run the Notebook**
+
+**5.) View the Results**
+
+**6.) Customize Analysis**
 
    
   ***
