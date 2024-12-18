@@ -17,7 +17,8 @@
 ## Contributors
 
 
-![Contributors](contributors.png)
+![contributors](contributors.png)
+
 Contributors pictured from left to right: Cameron Keplinger, Eshumael Manhanzva, Leslie Bland, Luther Johnson, Saurabh Pratap Singh, Tyler Shubert (Advisor), and Valarie Miller
 
 
