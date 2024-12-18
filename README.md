@@ -10,6 +10,9 @@ This research empowers authorities in cities of all sizes to take proactive step
 ![picture of Downtown St. Louis, MO with view of The Gateway Arch](stl.jpg)
 Picture sourced from [Fodor's Travel](https://www.fodors.com/)
 
+## Contributors
+
+Cameron Keplinger, Eshumael Manhanzva, Leslie Bland, Luther Johnson, Saurabh Pratap Singh, Tyler Shubert (Advisor), and Valarie Miller
 
 ## Table of Contents:
 
