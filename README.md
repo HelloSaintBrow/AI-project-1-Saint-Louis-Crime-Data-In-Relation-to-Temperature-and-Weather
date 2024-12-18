@@ -32,7 +32,7 @@ This research empowers authorities in cities of all sizes to take proactive step
 Picture sourced from [Fodor's Travel](https://www.fodors.com/)
 
 
-### Key Questions:
+### Key Questions
 
 1. **Has crime decreased or increased in St. Louis from 2021 to 2023?**
 2. **Does crime peak by season of the year (winter, spring, summer, fall)?**
