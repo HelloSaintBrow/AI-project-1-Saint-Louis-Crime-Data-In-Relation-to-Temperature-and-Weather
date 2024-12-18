@@ -9,10 +9,9 @@
 4. [Project Objectives](#project-objectives)
 5. [Research Approach](#research-approach)
 6. [Datasets](#datasets)
-7. [Tools and Libraries](#tools-and-libraries)
-8. [Analysis and Conclusion](#analysis-and-conclusion)
-9. [Next Steps](#next-steps)
-10. [How To Run The Application](#how-to-run-the-application)
+7. [Analysis and Conclusion](#analysis-and-conclusion)
+8. [Next Steps](#next-steps)
+9. [How To Run The Application](#how-to-run-the-application)
 
 
 ## Contributors
@@ -81,18 +80,6 @@ A **descriptive analysis method** was used, involving the summarization of raw d
 - **Description**: Records of reported crimes in St. Louis from 2021 to 2023 are included in this dataset, featuring details such as crime type, location, date, and time. It provides a comprehensive overview of crime trends across the city. Focus was placed on data fields reflecting the types of crimes, times of day crimes were committed, monthly crime rates, seasonal crime trends, and yearly data values, enabling a thorough exploration of how crime patterns have evolved over time.
 
 - **Source**: [St. Louis Metropolitan Police Department](https://slmpd.org/stats/)
-
-
-## Tools and Libraries
-
-The following tools and libraries were used for analysis and development:
-
-- **Python**: Programming language for data processing, analysis, and visualization.
-- **Pandas**: Data manipulation and analysis.
-- **NumPy**: Numerical computing and data manipulation.
-- **Matplotlib**: Data visualization libraries for creating plots and charts.
-- **Jupyter Notebooks**: For documenting and sharing the analysis process interactively.
-- **Visual Studio Code**: Development environment used for coding, debugging, and project management.
 
 
 ## Analysis and Conclusion
@@ -183,7 +170,30 @@ Building on the insights gained from the analysis of crime trends in St. Louis f
    Given the broader implications of these findings, explore opportunities for collaboration with other cities facing similar crime challenges. Sharing insights and strategies across cities could lead to more comprehensive crime reduction programs and best practices. Collaborative networks could also facilitate joint research initiatives focused on crime prevention and community safety.
 
 
-## How To Run The Application
+## How To Run
+
+### Tools and Libraries
+
+The following tools and libraries were used for analysis and development:
+
+- **Python**: Programming language for data processing, analysis, and visualization.
+- **Pandas**: Data manipulation and analysis.
+- **NumPy**: Numerical computing and data manipulation.
+- **Matplotlib & Seaborn**: Data visualization libraries for creating plots and charts.
+- **Scikit-learn**: For statistical analysis and potential predictive modeling.
+- **Jupyter Notebooks**: For documenting and sharing the analysis process interactively.
+- **Visual Studio Code**: Development environment used for coding, debugging, and project management.
+
+### St. Louis Crime Dataset
+
+- **Source**: [St. Louis Metropolitan Police Department](https://slmpd.org/stats/)
+
+### Visual Studio Code file: [St. Louis Crime Data](Saint_Louis_Crime_Data.ipynb)
+
+### Run The File
+
+### View Results
+
    
   ***
 
