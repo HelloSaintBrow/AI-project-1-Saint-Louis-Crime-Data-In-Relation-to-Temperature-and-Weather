@@ -18,7 +18,7 @@
 
 ### Contributors
 
-![contributors](team.png)
+![contributors](team-picture.png)
 
 Contributors to the St. Louis, MO Crime Trends Analysis (2021–2023) project, pictured from left to right: Cameron Keplinger, Eshumael Manhanzva, Leslie Bland, Luther Johnson, Saurabh Pratap Singh, Tyler Shubert (Advisor), and Valarie Miller.
 
