@@ -16,7 +16,10 @@
 
 ## Contributors
 
-Cameron Keplinger, Eshumael Manhanzva, Leslie Bland, Luther Johnson, Saurabh Pratap Singh, Tyler Shubert (Advisor), and Valarie Miller
+
+![pictured is each contributor of this project](St. Louis, MO Crime Trends Analysis (2021-2023) contributors.png)
+Pictured Left to Right: Cameron Keplinger, Eshumael Manhanzva, Leslie Bland, Luther Johnson, Saurabh Pratap Singh, Tyler Shubert (Advisor), and Valarie Miller
+
 
 
 ## Executive Summary 
