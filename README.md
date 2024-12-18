@@ -11,7 +11,7 @@
 6. [Datasets](#datasets)
 7. [Analysis and Conclusion](#analysis-and-conclusion)
 8. [Next Steps](#next-steps)
-9. [How To Run The Application](#how-to-run-the-application)
+9. [How To Run](#how-to-run)
 
 
 ## Contributors
