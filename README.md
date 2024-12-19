@@ -180,29 +180,34 @@ The following tools and libraries were used for analysis and development:
 
 ### How To Run
 
-**1.) Install the following tools and libraries**:
+1. **Install Required Tools and Libraries**  
+   - Ensure you have Python installed.  
+   - Install the necessary libraries using pip:  
+     ```bash
+     pip install pandas numpy matplotlib seaborn scikit-learn notebook
+     ```  
+   - Optionally, install Visual Studio Code for editing and managing the project:  
+     [Download Visual Studio Code](https://code.visualstudio.com/).  
 
-- Python
-- Pandas
-- NumPy 
-- Matplotlib & Seaborn
-- Scikit-learn
-- Jupyter Notebooks
-- Visual Studio Code
+2. **Prepare the Dataset**  
+   - Download the dataset from the [St. Louis Metropolitan Police Department](#).  
+   - Place the dataset in the project directory.  
 
-**2.) Prepare the Dataset**:
+3. **Open the Application**  
+   - Launch the Jupyter Notebook by running:  
+     ```bash
+     jupyter notebook
+     ```  
 
-- [St. Louis Metropolitan Police Department](https://slmpd.org/stats/)
+4. **Run the Notebook**  
+   - Open the notebook file (e.g., `analysis.ipynb`) in Jupyter Notebook.  
+   - Run all the cells.  
 
-**3). Open the Application**:
+5. **View the Results**  
+   - Explore the outputs and visualizations displayed in the notebook.  
 
-- Open the Jupyter Notebook file 
-
-**4.) Run the Notebook**
-
-**5.) View the Results**
-
-**6.) Customize Analysis**
+6. **Customize the Analysis**  
+   - Modify the code and parameters in the notebook to adjust the analysis based on your needs.
 
    
   ***
