@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # St. Louis, MO Crime Trends Analysis (2021-2023)
 =======
 # Crime Trends Analysis in St. Louis, MO (2021-2023)
@@ -82,7 +82,7 @@ The following tools and libraries were used for analysis and development:
 ## Analysis and Conclusion
 
 The analysis of crime trends in St. Louis from 2021 to 2023 reveals several key findings that can inform law enforcement and city planning strategies for improving public safety.
-<<<<<<< HEAD
+
 =======
 
 1. **Overall Crime Trends**:  
